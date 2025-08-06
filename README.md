@@ -3,6 +3,7 @@ A compact and powerful .sql file packed with essential SQL topics — from table
 
 
 🧠 SQL Hands-On Practice (MySQL Workbench)
+
 A high-impact, no-fluff SQL project designed to help you practice real-world SQL queries and build solid command over MySQL. This .sql file includes everything you need to strengthen your core database skills — all in one place.
 
 🚀 What’s Inside?
